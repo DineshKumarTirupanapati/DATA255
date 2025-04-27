@@ -1,0 +1,102 @@
+2025-04-26 22:11:57,789 - INFO - Initializing model...
+2025-04-26 22:11:57,874 - INFO - Model initialized with 1698342 parameters
+2025-04-26 22:11:57,875 - INFO - Initializing loss function...
+2025-04-26 22:11:58,805 - INFO - Initializing optimizer...
+2025-04-26 22:12:50,538 - INFO - Initializing model...
+2025-04-26 22:12:50,619 - INFO - Model initialized with 1698342 parameters
+2025-04-26 22:12:50,621 - INFO - Initializing loss function...
+2025-04-26 22:12:51,321 - INFO - Initializing optimizer...
+2025-04-26 22:13:11,036 - INFO - Initializing model...
+2025-04-26 22:13:11,112 - INFO - Model initialized with 1698342 parameters
+2025-04-26 22:13:11,114 - INFO - Initializing loss function...
+2025-04-26 22:13:11,863 - INFO - Initializing optimizer...
+2025-04-26 22:14:20,537 - INFO - Initializing model...
+2025-04-26 22:14:20,611 - INFO - Model initialized with 1698342 parameters
+2025-04-26 22:14:20,613 - INFO - Initializing loss function...
+2025-04-26 22:14:21,336 - INFO - Initializing optimizer...
+2025-04-26 22:14:21,351 - INFO - Starting training on cuda
+2025-04-26 22:14:21,351 - INFO - Total epochs: 50
+2025-04-26 22:14:21,351 - INFO - Batch size: 8
+2025-04-26 22:14:21,352 - INFO - Learning rate: 0.0002
+2025-04-26 22:14:21,352 - INFO - Fourier loss weight (alpha): 0.5
+2025-04-26 22:14:21,354 - INFO - Phase loss weight (beta): 0.3
+2025-04-26 22:14:21,354 - INFO - --------------------------------------------------
+2025-04-26 22:15:14,426 - INFO - [Epoch 1/50] Train Loss: 5.3512 Val Loss: 5.3088 LR: 0.000200 Time: 53.07s
+2025-04-26 22:15:14,469 - INFO - New best model saved with validation loss: 5.3088
+2025-04-26 22:16:09,203 - INFO - [Epoch 2/50] Train Loss: 5.3019 Val Loss: 5.2808 LR: 0.000200 Time: 54.73s
+2025-04-26 22:16:09,255 - INFO - New best model saved with validation loss: 5.2808
+2025-04-26 22:17:03,705 - INFO - [Epoch 3/50] Train Loss: 5.2966 Val Loss: 5.2775 LR: 0.000200 Time: 54.45s
+2025-04-26 22:17:03,739 - INFO - New best model saved with validation loss: 5.2775
+2025-04-26 22:17:57,930 - INFO - [Epoch 4/50] Train Loss: 5.2949 Val Loss: 5.2753 LR: 0.000200 Time: 54.19s
+2025-04-26 22:17:57,976 - INFO - New best model saved with validation loss: 5.2753
+2025-04-26 22:18:53,067 - INFO - [Epoch 5/50] Train Loss: 5.2917 Val Loss: 5.2885 LR: 0.000200 Time: 55.09s
+2025-04-26 22:18:53,112 - INFO - Saved periodic checkpoint for epoch 5
+2025-04-26 22:19:47,510 - INFO - [Epoch 6/50] Train Loss: 5.2910 Val Loss: 5.2777 LR: 0.000200 Time: 54.40s
+2025-04-26 22:20:42,198 - INFO - [Epoch 7/50] Train Loss: 5.2900 Val Loss: 5.2738 LR: 0.000200 Time: 54.69s
+2025-04-26 22:20:42,251 - INFO - New best model saved with validation loss: 5.2738
+2025-04-26 22:21:36,783 - INFO - [Epoch 8/50] Train Loss: 5.2901 Val Loss: 5.2728 LR: 0.000200 Time: 54.53s
+2025-04-26 22:21:36,829 - INFO - New best model saved with validation loss: 5.2728
+2025-04-26 22:22:31,180 - INFO - [Epoch 9/50] Train Loss: 5.2891 Val Loss: 5.2736 LR: 0.000200 Time: 54.35s
+2025-04-26 22:23:25,643 - INFO - [Epoch 10/50] Train Loss: 5.2894 Val Loss: 5.2726 LR: 0.000200 Time: 54.46s
+2025-04-26 22:23:25,679 - INFO - New best model saved with validation loss: 5.2726
+2025-04-26 22:23:25,726 - INFO - Saved periodic checkpoint for epoch 10
+2025-04-26 22:24:20,779 - INFO - [Epoch 11/50] Train Loss: 5.2880 Val Loss: 5.2710 LR: 0.000200 Time: 55.05s
+2025-04-26 22:24:20,815 - INFO - New best model saved with validation loss: 5.2710
+2025-04-26 22:25:16,158 - INFO - [Epoch 12/50] Train Loss: 5.2870 Val Loss: 5.2758 LR: 0.000200 Time: 55.34s
+2025-04-26 22:26:10,440 - INFO - [Epoch 13/50] Train Loss: 5.2864 Val Loss: 5.2830 LR: 0.000200 Time: 54.28s
+2025-04-26 22:27:05,266 - INFO - [Epoch 14/50] Train Loss: 5.3616 Val Loss: 5.2793 LR: 0.000200 Time: 54.82s
+2025-04-26 22:28:00,216 - INFO - [Epoch 15/50] Train Loss: 5.2891 Val Loss: 5.2742 LR: 0.000200 Time: 54.95s
+2025-04-26 22:28:00,251 - INFO - Saved periodic checkpoint for epoch 15
+2025-04-26 22:28:55,605 - INFO - [Epoch 16/50] Train Loss: 5.2861 Val Loss: 5.2720 LR: 0.000200 Time: 55.35s
+2025-04-26 22:29:51,020 - INFO - [Epoch 17/50] Train Loss: 5.2841 Val Loss: 5.2724 LR: 0.000100 Time: 55.41s
+2025-04-26 22:30:45,798 - INFO - [Epoch 18/50] Train Loss: 5.2825 Val Loss: 5.2716 LR: 0.000100 Time: 54.78s
+2025-04-26 22:31:41,194 - INFO - [Epoch 19/50] Train Loss: 5.2826 Val Loss: 5.2716 LR: 0.000100 Time: 55.39s
+2025-04-26 22:32:35,795 - INFO - [Epoch 20/50] Train Loss: 5.2819 Val Loss: 5.2710 LR: 0.000100 Time: 54.60s
+2025-04-26 22:32:35,838 - INFO - Saved periodic checkpoint for epoch 20
+2025-04-26 22:33:31,141 - INFO - [Epoch 21/50] Train Loss: 5.2808 Val Loss: 5.2747 LR: 0.000100 Time: 55.30s
+2025-04-26 22:34:25,962 - INFO - [Epoch 22/50] Train Loss: 5.2803 Val Loss: 5.2705 LR: 0.000100 Time: 54.82s
+2025-04-26 22:34:25,996 - INFO - New best model saved with validation loss: 5.2705
+2025-04-26 22:35:15,552 - INFO - [Epoch 23/50] Train Loss: 5.2862 Val Loss: 5.2800 LR: 0.000050 Time: 49.56s
+2025-04-26 22:36:04,189 - INFO - [Epoch 24/50] Train Loss: 5.2791 Val Loss: 5.2700 LR: 0.000050 Time: 48.64s
+2025-04-26 22:36:04,226 - INFO - New best model saved with validation loss: 5.2700
+2025-04-26 22:36:52,599 - INFO - [Epoch 25/50] Train Loss: 5.2785 Val Loss: 5.2706 LR: 0.000050 Time: 48.37s
+2025-04-26 22:36:52,633 - INFO - Saved periodic checkpoint for epoch 25
+2025-04-26 22:37:41,308 - INFO - [Epoch 26/50] Train Loss: 5.2782 Val Loss: 5.2700 LR: 0.000050 Time: 48.67s
+2025-04-26 22:37:41,339 - INFO - New best model saved with validation loss: 5.2700
+2025-04-26 22:38:29,391 - INFO - [Epoch 27/50] Train Loss: 5.2779 Val Loss: 5.2701 LR: 0.000050 Time: 48.05s
+2025-04-26 22:39:18,101 - INFO - [Epoch 28/50] Train Loss: 5.2796 Val Loss: 5.2696 LR: 0.000050 Time: 48.71s
+2025-04-26 22:39:18,134 - INFO - New best model saved with validation loss: 5.2696
+2025-04-26 22:40:07,540 - INFO - [Epoch 29/50] Train Loss: 5.2771 Val Loss: 5.2699 LR: 0.000050 Time: 49.41s
+2025-04-26 22:40:55,283 - INFO - [Epoch 30/50] Train Loss: 5.2766 Val Loss: 5.2703 LR: 0.000025 Time: 47.74s
+2025-04-26 22:40:55,320 - INFO - Saved periodic checkpoint for epoch 30
+2025-04-26 22:41:43,951 - INFO - [Epoch 31/50] Train Loss: 5.2761 Val Loss: 5.2697 LR: 0.000025 Time: 48.63s
+2025-04-26 22:42:32,592 - INFO - [Epoch 32/50] Train Loss: 5.2760 Val Loss: 5.2696 LR: 0.000025 Time: 48.64s
+2025-04-26 22:43:20,797 - INFO - [Epoch 33/50] Train Loss: 5.3194 Val Loss: 5.2896 LR: 0.000025 Time: 48.20s
+2025-04-26 22:44:10,043 - INFO - [Epoch 34/50] Train Loss: 5.2816 Val Loss: 5.2695 LR: 0.000025 Time: 49.24s
+2025-04-26 22:44:10,076 - INFO - New best model saved with validation loss: 5.2695
+2025-04-26 22:44:58,397 - INFO - [Epoch 35/50] Train Loss: 5.2758 Val Loss: 5.2695 LR: 0.000025 Time: 48.32s
+2025-04-26 22:44:58,435 - INFO - New best model saved with validation loss: 5.2695
+2025-04-26 22:44:58,466 - INFO - Saved periodic checkpoint for epoch 35
+2025-04-26 22:45:48,103 - INFO - [Epoch 36/50] Train Loss: 5.2754 Val Loss: 5.2695 LR: 0.000025 Time: 49.64s
+2025-04-26 22:46:37,127 - INFO - [Epoch 37/50] Train Loss: 5.2751 Val Loss: 5.2692 LR: 0.000025 Time: 49.02s
+2025-04-26 22:46:37,161 - INFO - New best model saved with validation loss: 5.2692
+2025-04-26 22:47:25,641 - INFO - [Epoch 38/50] Train Loss: 5.2751 Val Loss: 5.2694 LR: 0.000025 Time: 48.48s
+2025-04-26 22:48:14,059 - INFO - [Epoch 39/50] Train Loss: 5.2749 Val Loss: 5.2698 LR: 0.000025 Time: 48.42s
+2025-04-26 22:49:02,183 - INFO - [Epoch 40/50] Train Loss: 5.2751 Val Loss: 5.2695 LR: 0.000013 Time: 48.12s
+2025-04-26 22:49:02,228 - INFO - Saved periodic checkpoint for epoch 40
+2025-04-26 22:49:50,527 - INFO - [Epoch 41/50] Train Loss: 5.2749 Val Loss: 5.2692 LR: 0.000013 Time: 48.30s
+2025-04-26 22:49:50,569 - INFO - New best model saved with validation loss: 5.2692
+2025-04-26 22:50:38,346 - INFO - [Epoch 42/50] Train Loss: 5.2746 Val Loss: 5.2692 LR: 0.000013 Time: 47.78s
+2025-04-26 22:51:27,788 - INFO - [Epoch 43/50] Train Loss: 5.2746 Val Loss: 5.2692 LR: 0.000013 Time: 49.44s
+2025-04-26 22:52:17,087 - INFO - [Epoch 44/50] Train Loss: 5.2831 Val Loss: 5.2694 LR: 0.000013 Time: 49.30s
+2025-04-26 22:53:08,341 - INFO - [Epoch 45/50] Train Loss: 5.2742 Val Loss: 5.2693 LR: 0.000013 Time: 51.25s
+2025-04-26 22:53:08,383 - INFO - Saved periodic checkpoint for epoch 45
+2025-04-26 22:53:57,620 - INFO - [Epoch 46/50] Train Loss: 5.2746 Val Loss: 5.2695 LR: 0.000006 Time: 49.24s
+2025-04-26 22:54:46,842 - INFO - [Epoch 47/50] Train Loss: 5.2746 Val Loss: 5.2693 LR: 0.000006 Time: 49.22s
+2025-04-26 22:55:35,561 - INFO - [Epoch 48/50] Train Loss: 5.2784 Val Loss: 5.2794 LR: 0.000006 Time: 48.72s
+2025-04-26 22:56:24,403 - INFO - [Epoch 49/50] Train Loss: 5.2764 Val Loss: 5.2771 LR: 0.000006 Time: 48.84s
+2025-04-26 22:57:13,853 - INFO - [Epoch 50/50] Train Loss: 5.2765 Val Loss: 5.2694 LR: 0.000006 Time: 49.45s
+2025-04-26 22:57:13,887 - INFO - Saved periodic checkpoint for epoch 50
+2025-04-26 22:57:13,902 - INFO - Training completed in 0.71 hours (42.88 minutes)
+2025-04-26 22:57:13,903 - INFO - Best validation loss: 5.2692
+2025-04-26 22:57:14,335 - INFO - Final model saved to results/resdiff_final.pth
