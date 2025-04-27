@@ -1,0 +1,5 @@
+Average PSNR: 38.8085
+Average SSIM: 0.9049
+Average Fourier Spectrum Similarity: 0.9979
+Average Phase Consistency: 0.4902
+Average LPIPS: 0.1974
