@@ -4,7 +4,7 @@ This repository contains the implementation of ResDiff, a hybrid model combining
 
 ## Repository Structure
 
-- `aplit_dataset.ipynb`: Splits the dataset into train, validation, and test sets using an 80/10/10 ratio.
+- `aplit_dataset.ipynb`: Splits the dataset into train, validation, and test sets using an 70/20/10 ratio.
 - `dataset.py`: Creates high-resolution (256×256) and low-resolution (64×64) image pairs for training.
 - `resdiff.py`: Defines the core architecture of the ResDiff model, integrating FourierCNN and DiffusionUNet.
 - `losses.py`: Implements the full composite loss function (MSE, SSIM, Fourier, Phase, VGG) used during training.
